@@ -1,5 +1,5 @@
 # VersionamentoQuizNome
-Versionamento QuizNome 2025
+Versionamento QuizStop 2025
 
 # Meus Games:
 - https://trechosgame.github.io/Jogo_Da_Forca/app.html
